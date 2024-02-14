@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Treat Kicks</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Feb 2024 15:45:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/07/live-favicon.jpg</url>
+	<title>admin &#8211; Treat Kicks</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bluesky Is No Longer Invite-only</title>
+		<link>/bluesky-is-no-longer-invite-only/</link>
+					<comments>/bluesky-is-no-longer-invite-only/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2024 15:45:47 +0000</pubDate>
+				<category><![CDATA[Science & Technology]]></category>
+		<category><![CDATA[Bluesky Is No Longer Invite-only]]></category>
+		<guid isPermaLink="false">/?p=623</guid>
+
+					<description><![CDATA[Bluesky, a micro-blogging platform founded by Twitter co-founder Jack Dorsey, has officially opened its doors to the public after nearly a year as an invite-only app. With an initial user base of 3 million sign-ups during its closed beta phase,...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Bluesky, a micro-blogging platform founded by Twitter co-founder Jack Dorsey, has officially opened its doors to the public after nearly a year as an invite-only app. With an initial user base of 3 million sign-ups during its closed beta phase, the social media app features an open-source decentralised infrastructure. Bluesky&#8217;s user interface closely resembles that of Twitter, providing a familiar experience for users. However, the platform&#8217;s true innovation lies in its decentralised infrastructure. The AT Protocol, originally developed within Twitter, has been designed to create a decentralised environment for social networking. This decentralised approach allows for greater transparency and flexibility, as the entire codebase of Bluesky is open source.</p>
+<p style="text-align: justify;">Being open source means that anyone, including developers outside the company, can access and scrutinise the code. According to the platform, this transparency fosters trust among users and provides insights into the platform&#8217;s inner workings. Additionally, developers have the freedom to contribute to the project and even build their applications or features on top of the AT Protocol.</p>
+<p style="text-align: justify;">While the open-source, decentralised platform has its notable perk over other notably newer micro-blogging platforms Mastodon and Threads, it has a long way to go in building a user base that can sufficiently rival such platforms. However, with the recent shift to now being open to everyone, the open-source AT Protocol codebase is expected to attract third-party developers that might redefine the micro-blogging landscape as we know it. You can sign up for Bluesky by going here, registering via your email, and verifying with your phone number. However, please note that at the time of writing, Bluesky is unable to send verification messages to phone numbers in Bangladesh.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bluesky-is-no-longer-invite-only/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Indian scientists develop new tech for Open Radio Access Network stations</title>
+		<link>/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/</link>
+					<comments>/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2024 15:42:40 +0000</pubDate>
+				<category><![CDATA[Science & Technology]]></category>
+		<category><![CDATA[Indian scientists develop new tech for Open Radio Access Network stations]]></category>
+		<guid isPermaLink="false">/?p=620</guid>
+
+					<description><![CDATA[A new niche technological solution for Open Radio Access Network (ORAN) base stations has been developed by Indian scientists that is expected to facilitate high-speed and reliable connectivity at a cost viable for unconnected and far-flung areas. The best-in-class ORAN...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">A new niche technological solution for Open Radio Access Network (ORAN) base stations has been developed by Indian scientists that is expected to facilitate high-speed and reliable connectivity at a cost viable for unconnected and far-flung areas. The best-in-class ORAN base station solution has been designed and is under development for commercialisation for creating spectral and energy-efficient wireless communications technology for 5G and 5G-Advanced radio networks, the Science and Technology Ministry said in a recent statement.</p>
+<p style="text-align: justify;">ORAN base station solutions, a critical component of next-generation telecommunications infrastructure, disaggregates the software and hardware components of the network infrastructure. ORAN-based interfaces are like doors that provide access to different components of the network infrastructure making it easier, efficient, and more economically viable to provide internet in remote areas. The breaking down of the Radio Access Network (RAN) functions helps bring down network cost and complexity. Open RAN removes vendor lock-in and can facilitate smooth interoperation between cellular network equipment provided by different vendors.</p>
+<p style="text-align: justify;">The ORAN base station radio unit development led by Dr. Kiran Kuchi, Professor at Indian Institute of Technology in Hyderabad introduced the ORAN technology harnessing a multitude of antennas on cell towers. The &#8220;breakthrough&#8221; promises to not only enhance cell coverage but also boost capacity by an impressive three-fold compared to existing 4G networks, thereby optimising spectrum utilisation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Did you know an Indian startup 3D-printed a house in 21 days</title>
+		<link>/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/</link>
+					<comments>/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2024 15:41:01 +0000</pubDate>
+				<category><![CDATA[Science & Technology]]></category>
+		<category><![CDATA[Did you know an Indian startup 3D-printed a house in 21 days]]></category>
+		<guid isPermaLink="false">/?p=617</guid>
+
+					<description><![CDATA[On April 27, 2021, Tvasta, a startup founded by alumni from the Indian Institute of Technology Madras, completed the construction of India&#8217;s first 3D-printed house, in only 21 days. Modules for this 500 sq. ft. house were printed in the...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">On April 27, 2021, Tvasta, a startup founded by alumni from the Indian Institute of Technology Madras, completed the construction of India&#8217;s first 3D-printed house, in only 21 days. Modules for this 500 sq. ft. house were printed in the startup&#8217;s facility in Chennai and assembled at the site, as per the company&#8217;s official website.</p>
+<p style="text-align: justify;"><strong>How was this done?</strong><br />
+The house was built using 3D-printed modules, using a process that involves layer-by-layer deposition of materials to create three-dimensional structures. Such processes typically utilise large-scale 3D printers capable of handling construction materials such as concrete, polymers, or other suitable building materials. According to Tvasta, 3D printing for construction leads to an 80% reduction in waste, and can significantly reduce labour requirements and time of construction.</p>
+<p style="text-align: justify;"><strong>Google News LinkFor all latest news, follow The Daily Star&#8217;s Google News channel.</strong><br />
+The construction of this unique structure cost Rs 5 to 5.5 lakh, which, is about 20% of the cost of a standard 2BHK apartment in India, as per a 2022 report by the Indian news portal The Better India. The report adds that the technology used by Tvasta creates only 1/3rd of the waste generated using conventional building methods.</p>
+<p style="text-align: justify;"><strong>Tvasta: vision and goals</strong><br />
+According to Tvasta&#8217;s website, the startup was founded with the vision of &#8220;leveraging 3D printing technology to revolutionise home construction&#8221;. In an interview with The Better India, Adithya VS, co-founder and CEO of the startup, noted that by using a 3D printer capable of receiving instructions on building large-scale structures in the form of a 3D virtual file, &#8220;a large-scale structure can be built without formwork or moulds in a very short period through layer-by-layer manufacturing&#8221;.</p>
+<p style="text-align: justify;">In a similar interview, Vidyashankar C, COO of Tvasta, said that the startup enables &#8220;mass customisation of end components&#8221; and that by using their 3D printing technology, any construction project can be done in minimum time with minimum impact on the environment. As per their website, the startup plans to &#8220;develop category-creating platform technologies that aim to disrupt the construction industry by automating 80% of construction&#8221;.</p>
+<p style="text-align: justify;"><strong>3D-printed statue</strong><br />
+&#8216;Anant Siras&#8217;, a 21-foot statue, was printed, assembled, and finished by Tvasta in a month. They have also built &#8216;Anant Siras&#8217; a 21-foot statue commemorating 75 years of India Cement, which was printed, assembled, and finished in a month.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rumoured PSP2 Might Offer PS4 and PS5 Games</title>
+		<link>/rumoured-psp2-might-offer-ps4-and-ps5-games/</link>
+					<comments>/rumoured-psp2-might-offer-ps4-and-ps5-games/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2024 15:38:32 +0000</pubDate>
+				<category><![CDATA[Science & Technology]]></category>
+		<category><![CDATA[Rumoured PSP2 Might Offer PS4 and PS5 Games]]></category>
+		<guid isPermaLink="false">/?p=614</guid>
+
+					<description><![CDATA[PlayStation is reportedly in the process of developing a successor to the PSP, which will offer compatibility with PlayStation 4 and PlayStation 5 games, as per a YouTuber named Moore&#8217;s Law Is Dead, known for making content on tech. He...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">PlayStation is reportedly in the process of developing a successor to the PSP, which will offer compatibility with PlayStation 4 and PlayStation 5 games, as per a YouTuber named Moore&#8217;s Law Is Dead, known for making content on tech. He recently shared details about the rumoured device on his YouTube channel, which has over 171,000 subscribers. According to Moore&#8217;s sources, the console is still in the early stages of development, with a potential release at least two years away and AMD is also working on its development. One of the most intriguing aspects of these rumours is the device&#8217;s alleged capability to run games from both the PS4 and PS5 libraries.</p>
+<p style="text-align: justify;">The original PlayStation Portable (PSP), made waves in the gaming industry upon its release in the mid-2000s. It marked PlayStation&#8217;s entry into the handheld console market and emerged as a significant competitor to Nintendo&#8217;s DS series. With approximately 80 million units sold, the PSP has had considerable success. However, since then, PlayStation and Sony have not made significant developments in the realm of handheld gaming consoles. PlayStation&#8217;s most recent foray into handheld gaming, the Portal, was launched in November last year. However, it requires ownership of a PS5 console to function, limiting its accessibility to a subset of players.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/rumoured-psp2-might-offer-ps4-and-ps5-games/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Indian Scientists Design New Technique to Better Study Absolute Zero Atoms</title>
+		<link>/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/</link>
+					<comments>/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2024 15:35:52 +0000</pubDate>
+				<category><![CDATA[Science & Technology]]></category>
+		<guid isPermaLink="false">/?p=611</guid>
+
+					<description><![CDATA[Indian scientists have designed a new image-correction technique capable of getting better images during the study of atoms at absolute zero temperature. The technique can get rid of 50% unwanted interference fringes in the images, which are important for understanding...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Indian scientists have designed a new image-correction technique capable of getting better images during the study of atoms at absolute zero temperature. The technique can get rid of 50% unwanted interference fringes in the images, which are important for understanding the intriguing quantum mechanics governed properties of atoms at cold temperatures better, the Science and Technology Ministry said in a recent statement. A research group at the Raman Research Institute (RRI), an autonomous institute of the Ministry, has developed an image-correction solution. At low temperatures near absolute zero, the original properties of atoms based on classical mechanics are replaced and then governed by the laws of quantum mechanics.</p>
+<p style="text-align: justify;">They hold the potential to offer a possibility to study and better understand the atomic properties at such low temperatures, according to the Ministry. The commonly used technique for the study of ultracold atoms is by deploying magneto-optical traps with high-power laser cooling techniques. Cold atoms of elements like sodium, potassium, and rubidium are commonly studied. Detection techniques, namely fluorescence, absorption or phase-contrast imaging techniques are used. Of these, imaging through fluorescence or absorption techniques is widely used.</p>
+<p style="text-align: justify;">However, the images obtained using these techniques often suffer due to unwanted interference fringes which are unwanted dark-bright patterns imprinted on the actual images, thus lowering the quality of results. The presence of unwanted interference fringes has the potential to derail the accurate calculation of important parameters &#8212; the atom number, temperature and dynamics in smaller time scales. The newly developed algorithm by the team of the Raman Research Institute is based on the existing eigenface recognition coupled with a smart masking technique aimed to obtain images with minimal interference fringes. This eigenface recognition is quite similar to finding a correct image of a person or an object from a group of images based on the features of the object. Our cell phones use this as a base technology, however, modern-day smartphones have modified this with additional machine-learning-based technology to improve the feature but the idea remains the same.</p>
+<p style="text-align: justify;">&#8220;While dealing with the cold atoms, it is necessary to calculate the Optical Density (OD) from which one can determine the temperature, size, density and other useful parameters,&#8221; said Gourab Pal, a PhD student at the Raman Research Institute. In this algorithm, researchers need to calculate an important parameter known as the Optical Density, which is the logarithmic subtraction of two frames &#8212; one containing the cold cloud (denoted as S) and the other is the probe light (denoted by L). Under ideal circumstances, both the L and S frames have identical interference fringes, which when logarithmically subtracted result in the removal of fringes.</p>
+<p style="text-align: justify;">&#8220;But in reality, while working in the lab, these frames do not showcase identical interference fringes, making the situation challenging and requiring a de-fringing method to obtain a clean Optical Density,&#8221; explained Pal, who is the first author of the paper titled &#8216;Efficient denoising of cold atom images using optimised eigenface recognition algorithm&#8217;. In the paper published recently in the journal Applied Optics, the RRI team claimed the proposed technique could reduce the interference fringes in the absorption imaging of cold atoms by nearly 50%. In addition, there was a marked improvement, of the order of 50%, obtained in the temperature uncertainties in cold Rubidium atoms, when this algorithm was applied. Scientists contend the absorption imaging technique is popular in the cold atom community and has a wide range of applications.</p>
+<p style="text-align: justify;">&#8220;This is particularly useful where the number of atoms is fewer. Absorption imaging can be used to find the density profile of cold and ultracold atoms. In this technique, we find the temperature of a cold atom cloud via time-of-flight measurements. The basis of the quantum gas microscopy is the absorption imaging. In addition, this method is used to perform in-situ measurements of trapped atoms,&#8221; said co-author of the paper, Saptarishi Chaudhuri, head QuMix laboratory at the Institute.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

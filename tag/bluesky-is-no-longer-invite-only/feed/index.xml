@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bluesky Is No Longer Invite-only &#8211; Treat Kicks</title>
+	<atom:link href="/tag/bluesky-is-no-longer-invite-only/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Feb 2024 15:45:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/07/live-favicon.jpg</url>
+	<title>Bluesky Is No Longer Invite-only &#8211; Treat Kicks</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bluesky Is No Longer Invite-only</title>
+		<link>/bluesky-is-no-longer-invite-only/</link>
+					<comments>/bluesky-is-no-longer-invite-only/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2024 15:45:47 +0000</pubDate>
+				<category><![CDATA[Science & Technology]]></category>
+		<category><![CDATA[Bluesky Is No Longer Invite-only]]></category>
+		<guid isPermaLink="false">/?p=623</guid>
+
+					<description><![CDATA[Bluesky, a micro-blogging platform founded by Twitter co-founder Jack Dorsey, has officially opened its doors to the public after nearly a year as an invite-only app. With an initial user base of 3 million sign-ups during its closed beta phase,...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Bluesky, a micro-blogging platform founded by Twitter co-founder Jack Dorsey, has officially opened its doors to the public after nearly a year as an invite-only app. With an initial user base of 3 million sign-ups during its closed beta phase, the social media app features an open-source decentralised infrastructure. Bluesky&#8217;s user interface closely resembles that of Twitter, providing a familiar experience for users. However, the platform&#8217;s true innovation lies in its decentralised infrastructure. The AT Protocol, originally developed within Twitter, has been designed to create a decentralised environment for social networking. This decentralised approach allows for greater transparency and flexibility, as the entire codebase of Bluesky is open source.</p>
+<p style="text-align: justify;">Being open source means that anyone, including developers outside the company, can access and scrutinise the code. According to the platform, this transparency fosters trust among users and provides insights into the platform&#8217;s inner workings. Additionally, developers have the freedom to contribute to the project and even build their applications or features on top of the AT Protocol.</p>
+<p style="text-align: justify;">While the open-source, decentralised platform has its notable perk over other notably newer micro-blogging platforms Mastodon and Threads, it has a long way to go in building a user base that can sufficiently rival such platforms. However, with the recent shift to now being open to everyone, the open-source AT Protocol codebase is expected to attract third-party developers that might redefine the micro-blogging landscape as we know it. You can sign up for Bluesky by going here, registering via your email, and verifying with your phone number. However, please note that at the time of writing, Bluesky is unable to send verification messages to phone numbers in Bangladesh.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bluesky-is-no-longer-invite-only/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
