@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Treat Kicks</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://treat.kicks.se/feed/index.xml" rel="self" type="application/rss+xml" />
+	<link>https://treat.kicks.se/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Feb 2024 15:45:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/07/live-favicon.jpg</url>
+	<url>https://treat.kicks.se/wp-content/uploads/2023/07/live-favicon.jpg</url>
 	<title>Treat Kicks</title>
-	<link></link>
+	<link>https://treat.kicks.se/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bluesky Is No Longer Invite-only</title>
-		<link>/bluesky-is-no-longer-invite-only/</link>
-					<comments>/bluesky-is-no-longer-invite-only/#respond</comments>
+		<link>https://treat.kicks.se/bluesky-is-no-longer-invite-only/</link>
+					<comments>https://treat.kicks.se/bluesky-is-no-longer-invite-only/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 15:45:47 +0000</pubDate>
 				<category><![CDATA[Science & Technology]]></category>
 		<category><![CDATA[Bluesky Is No Longer Invite-only]]></category>
-		<guid isPermaLink="false">/?p=623</guid>
+		<guid isPermaLink="false">https://treat.kicks.se/?p=623</guid>
 
 					<description><![CDATA[Bluesky, a micro-blogging platform founded by Twitter co-founder Jack Dorsey, has officially opened its doors to the public after nearly a year as an invite-only app. With an initial user base of 3 million sign-ups during its closed beta phase,...]]></description>
 										<content:encoded><![CDATA[<p style="text-align: justify;">Bluesky, a micro-blogging platform founded by Twitter co-founder Jack Dorsey, has officially opened its doors to the public after nearly a year as an invite-only app. With an initial user base of 3 million sign-ups during its closed beta phase, the social media app features an open-source decentralised infrastructure. Bluesky&#8217;s user interface closely resembles that of Twitter, providing a familiar experience for users. However, the platform&#8217;s true innovation lies in its decentralised infrastructure. The AT Protocol, originally developed within Twitter, has been designed to create a decentralised environment for social networking. This decentralised approach allows for greater transparency and flexibility, as the entire codebase of Bluesky is open source.</p>
@@ -44,21 +44,21 @@
 <p style="text-align: justify;">While the open-source, decentralised platform has its notable perk over other notably newer micro-blogging platforms Mastodon and Threads, it has a long way to go in building a user base that can sufficiently rival such platforms. However, with the recent shift to now being open to everyone, the open-source AT Protocol codebase is expected to attract third-party developers that might redefine the micro-blogging landscape as we know it. You can sign up for Bluesky by going here, registering via your email, and verifying with your phone number. However, please note that at the time of writing, Bluesky is unable to send verification messages to phone numbers in Bangladesh.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bluesky-is-no-longer-invite-only/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treat.kicks.se/bluesky-is-no-longer-invite-only/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Indian scientists develop new tech for Open Radio Access Network stations</title>
-		<link>/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/</link>
-					<comments>/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/#respond</comments>
+		<link>https://treat.kicks.se/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/</link>
+					<comments>https://treat.kicks.se/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 15:42:40 +0000</pubDate>
 				<category><![CDATA[Science & Technology]]></category>
 		<category><![CDATA[Indian scientists develop new tech for Open Radio Access Network stations]]></category>
-		<guid isPermaLink="false">/?p=620</guid>
+		<guid isPermaLink="false">https://treat.kicks.se/?p=620</guid>
 
 					<description><![CDATA[A new niche technological solution for Open Radio Access Network (ORAN) base stations has been developed by Indian scientists that is expected to facilitate high-speed and reliable connectivity at a cost viable for unconnected and far-flung areas. The best-in-class ORAN...]]></description>
 										<content:encoded><![CDATA[<p style="text-align: justify;">A new niche technological solution for Open Radio Access Network (ORAN) base stations has been developed by Indian scientists that is expected to facilitate high-speed and reliable connectivity at a cost viable for unconnected and far-flung areas. The best-in-class ORAN base station solution has been designed and is under development for commercialisation for creating spectral and energy-efficient wireless communications technology for 5G and 5G-Advanced radio networks, the Science and Technology Ministry said in a recent statement.</p>
@@ -66,21 +66,21 @@
 <p style="text-align: justify;">The ORAN base station radio unit development led by Dr. Kiran Kuchi, Professor at Indian Institute of Technology in Hyderabad introduced the ORAN technology harnessing a multitude of antennas on cell towers. The &#8220;breakthrough&#8221; promises to not only enhance cell coverage but also boost capacity by an impressive three-fold compared to existing 4G networks, thereby optimising spectrum utilisation.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treat.kicks.se/indian-scientists-develop-new-tech-for-open-radio-access-network-stations/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Did you know an Indian startup 3D-printed a house in 21 days</title>
-		<link>/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/</link>
-					<comments>/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/#respond</comments>
+		<link>https://treat.kicks.se/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/</link>
+					<comments>https://treat.kicks.se/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 15:41:01 +0000</pubDate>
 				<category><![CDATA[Science & Technology]]></category>
 		<category><![CDATA[Did you know an Indian startup 3D-printed a house in 21 days]]></category>
-		<guid isPermaLink="false">/?p=617</guid>
+		<guid isPermaLink="false">https://treat.kicks.se/?p=617</guid>
 
 					<description><![CDATA[On April 27, 2021, Tvasta, a startup founded by alumni from the Indian Institute of Technology Madras, completed the construction of India&#8217;s first 3D-printed house, in only 21 days. Modules for this 500 sq. ft. house were printed in the...]]></description>
 										<content:encoded><![CDATA[<p style="text-align: justify;">On April 27, 2021, Tvasta, a startup founded by alumni from the Indian Institute of Technology Madras, completed the construction of India&#8217;s first 3D-printed house, in only 21 days. Modules for this 500 sq. ft. house were printed in the startup&#8217;s facility in Chennai and assembled at the site, as per the company&#8217;s official website.</p>
@@ -95,41 +95,41 @@ According to Tvasta&#8217;s website, the startup was founded with the vision of 
 &#8216;Anant Siras&#8217;, a 21-foot statue, was printed, assembled, and finished by Tvasta in a month. They have also built &#8216;Anant Siras&#8217; a 21-foot statue commemorating 75 years of India Cement, which was printed, assembled, and finished in a month.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treat.kicks.se/did-you-know-an-indian-startup-3d-printed-a-house-in-21-days/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rumoured PSP2 Might Offer PS4 and PS5 Games</title>
-		<link>/rumoured-psp2-might-offer-ps4-and-ps5-games/</link>
-					<comments>/rumoured-psp2-might-offer-ps4-and-ps5-games/#respond</comments>
+		<link>https://treat.kicks.se/rumoured-psp2-might-offer-ps4-and-ps5-games/</link>
+					<comments>https://treat.kicks.se/rumoured-psp2-might-offer-ps4-and-ps5-games/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 15:38:32 +0000</pubDate>
 				<category><![CDATA[Science & Technology]]></category>
 		<category><![CDATA[Rumoured PSP2 Might Offer PS4 and PS5 Games]]></category>
-		<guid isPermaLink="false">/?p=614</guid>
+		<guid isPermaLink="false">https://treat.kicks.se/?p=614</guid>
 
 					<description><![CDATA[PlayStation is reportedly in the process of developing a successor to the PSP, which will offer compatibility with PlayStation 4 and PlayStation 5 games, as per a YouTuber named Moore&#8217;s Law Is Dead, known for making content on tech. He...]]></description>
 										<content:encoded><![CDATA[<p style="text-align: justify;">PlayStation is reportedly in the process of developing a successor to the PSP, which will offer compatibility with PlayStation 4 and PlayStation 5 games, as per a YouTuber named Moore&#8217;s Law Is Dead, known for making content on tech. He recently shared details about the rumoured device on his YouTube channel, which has over 171,000 subscribers. According to Moore&#8217;s sources, the console is still in the early stages of development, with a potential release at least two years away and AMD is also working on its development. One of the most intriguing aspects of these rumours is the device&#8217;s alleged capability to run games from both the PS4 and PS5 libraries.</p>
 <p style="text-align: justify;">The original PlayStation Portable (PSP), made waves in the gaming industry upon its release in the mid-2000s. It marked PlayStation&#8217;s entry into the handheld console market and emerged as a significant competitor to Nintendo&#8217;s DS series. With approximately 80 million units sold, the PSP has had considerable success. However, since then, PlayStation and Sony have not made significant developments in the realm of handheld gaming consoles. PlayStation&#8217;s most recent foray into handheld gaming, the Portal, was launched in November last year. However, it requires ownership of a PS5 console to function, limiting its accessibility to a subset of players.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/rumoured-psp2-might-offer-ps4-and-ps5-games/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treat.kicks.se/rumoured-psp2-might-offer-ps4-and-ps5-games/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Indian Scientists Design New Technique to Better Study Absolute Zero Atoms</title>
-		<link>/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/</link>
-					<comments>/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/#respond</comments>
+		<link>https://treat.kicks.se/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/</link>
+					<comments>https://treat.kicks.se/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 15:35:52 +0000</pubDate>
 				<category><![CDATA[Science & Technology]]></category>
-		<guid isPermaLink="false">/?p=611</guid>
+		<guid isPermaLink="false">https://treat.kicks.se/?p=611</guid>
 
 					<description><![CDATA[Indian scientists have designed a new image-correction technique capable of getting better images during the study of atoms at absolute zero temperature. The technique can get rid of 50% unwanted interference fringes in the images, which are important for understanding...]]></description>
 										<content:encoded><![CDATA[<p style="text-align: justify;">Indian scientists have designed a new image-correction technique capable of getting better images during the study of atoms at absolute zero temperature. The technique can get rid of 50% unwanted interference fringes in the images, which are important for understanding the intriguing quantum mechanics governed properties of atoms at cold temperatures better, the Science and Technology Ministry said in a recent statement. A research group at the Raman Research Institute (RRI), an autonomous institute of the Ministry, has developed an image-correction solution. At low temperatures near absolute zero, the original properties of atoms based on classical mechanics are replaced and then governed by the laws of quantum mechanics.</p>
@@ -140,7 +140,7 @@ According to Tvasta&#8217;s website, the startup was founded with the vision of 
 <p style="text-align: justify;">&#8220;This is particularly useful where the number of atoms is fewer. Absorption imaging can be used to find the density profile of cold and ultracold atoms. In this technique, we find the temperature of a cold atom cloud via time-of-flight measurements. The basis of the quantum gas microscopy is the absorption imaging. In addition, this method is used to perform in-situ measurements of trapped atoms,&#8221; said co-author of the paper, Saptarishi Chaudhuri, head QuMix laboratory at the Institute.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treat.kicks.se/indian-scientists-design-new-technique-to-better-study-absolute-zero-atoms/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
